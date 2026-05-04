@@ -73,6 +73,12 @@ Personal-Expense-Tracker/
 
 ---
 
+### 🔹 Demo Video
+
+https://youtu.be/mafY8h_go4I
+
+---
+
 ## 📁 Sample Data Format
 
 ```csv
@@ -115,6 +121,4 @@ This project provides meaningful insights into spending behavior and helps users
 ---
 
 ## 👨‍💻 Author
-
-Your Name
 S. Hemalatha
